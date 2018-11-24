@@ -1,0 +1,16 @@
+{
+  "name": "sequential-fetch",
+  "version": "1.0.0",
+  "description": "examples of how to sequentially fetch urls",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "co": "^4.6.0",
+    "node-fetch": "^2.3.0",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {},
+  "author": "cliff xuan",
+  "license": "MIT"
+}
